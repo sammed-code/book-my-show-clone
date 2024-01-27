@@ -8,9 +8,9 @@
     -> React-Context-API
 
 ### Pages:                                              HOCs (Layouts):
-    -> Home.Page.jsx                                    Default.Hoc.jsx
-    -> Movie.Page.jsx                                   Movie.Hoc.jsx
-    -> Play.Page.jsx                                    Default.Hoc.jsx
+    -> Home.Page.jsx                                    Default.layout.jsx
+    -> Movie.Page.jsx                                   Movie.layout.jsx
+    -> Play.Page.jsx                                    Default.layout.jsx
 
 ### Components
     -> Cast                     Cast.Component.jsx
